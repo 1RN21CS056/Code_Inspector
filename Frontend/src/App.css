@@ -45,7 +45,7 @@ main .left .review {
   position: absolute;
   bottom: 1rem;
   right: 1rem;
-  background-color: rgb(219, 219, 255);
+  background-color: rgb(239, 239, 245);
   color: #000000;
   padding: 0.5rem 2rem;
   font-weight: 500;
@@ -54,7 +54,10 @@ main .left .review {
   border-radius: 0.7rem;
 }
 
-
+  
 main .right {
-  background-color: #343434;
+  background-color: #ffffff;
+  padding: 1rem 2rem;
+  font-size: 1.5rem;
+  overflow: auto;
 }
